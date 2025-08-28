@@ -1,0 +1,15 @@
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/bin/Debug/net9.0/Accord.dll.config
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/bin/Debug/net9.0/MedjCap.Data.deps.json
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/bin/Debug/net9.0/MedjCap.Data.dll
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/bin/Debug/net9.0/MedjCap.Data.pdb
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/bin/Debug/net9.0/MedjCap.dll
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/bin/Debug/net9.0/MedjCap.pdb
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/obj/Debug/net9.0/MedjCap.Data.csproj.AssemblyReference.cache
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/obj/Debug/net9.0/MedjCap.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/obj/Debug/net9.0/MedjCap.Data.csproj.CoreCompileInputs.cache
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/obj/Debug/net9.0/MedjCap.Data.sourcelink.json
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/obj/Debug/net9.0/MedjCap..78CBFBDB.Up2Date
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/obj/Debug/net9.0/MedjCap.Data.dll
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/obj/Debug/net9.0/refint/MedjCap.Data.dll
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/obj/Debug/net9.0/MedjCap.Data.pdb
+/Users/tmedjber/Documents/Personal/MedjCap/MedjCap.src/MedjCap.Data/obj/Debug/net9.0/ref/MedjCap.Data.dll
