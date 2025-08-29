@@ -1,5 +1,5 @@
 using FluentAssertions;
-using MedjCap.Data.Services;
+using MedjCap.Data.Infrastructure.MemoryManagement;
 using System;
 using System.Linq;
 using Xunit;

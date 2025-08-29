@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using Xunit;
 using FluentAssertions;
-using MedjCap.Data.Core;
-using MedjCap.Data.Domain;
-using MedjCap.Data.Services;
-using MedjCap.Data.Storage;
+using MedjCap.Data.TimeSeries.Interfaces;
+using MedjCap.Data.Trading.Models;
+using MedjCap.Data.TimeSeries.Models;
+using MedjCap.Data.TimeSeries.Services;
+using MedjCap.Data.Infrastructure.Storage;
+using MedjCap.Data.TimeSeries.Storage.InMemory;
+using MedjCap.Data.Infrastructure.Models;
 
 namespace MedjCap.Data.Tests.Unit
 {

@@ -1,8 +1,9 @@
 using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Order;
-using MedjCap.Data.Core;
-using MedjCap.Data.Domain;
-using MedjCap.Data.Services;
+using MedjCap.Data.DataQuality.Interfaces;
+using MedjCap.Data.DataQuality.Models;
+using MedjCap.Data.DataQuality.Services;
+using MedjCap.Data.Trading.Models;
 using MedjCap.Data.Tests.Helpers;
 
 namespace MedjCap.Data.Tests.Benchmarks;

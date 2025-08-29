@@ -1,9 +1,18 @@
 using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Order;
-using MedjCap.Data.Core;
-using MedjCap.Data.Domain;
-using MedjCap.Data.Services;
-using MedjCap.Data.Services.OptimizationStrategies;
+using MedjCap.Data.Statistics.Interfaces;
+using MedjCap.Data.MachineLearning.Interfaces;
+using MedjCap.Data.DataQuality.Interfaces;
+using MedjCap.Data.Trading.Models;
+using MedjCap.Data.MachineLearning.Models;
+using MedjCap.Data.Statistics.Services;
+using MedjCap.Data.MachineLearning.Services;
+using MedjCap.Data.DataQuality.Services;
+using MedjCap.Data.DataQuality.Models;
+using MedjCap.Data.MachineLearning.Services.OptimizationStrategies;
+using MedjCap.Data.TimeSeries.Models;
+using MedjCap.Data.Statistics.Models;
+using MedjCap.Data.Statistics.Correlation.Models;
 using MedjCap.Data.Tests.Helpers;
 
 namespace MedjCap.Data.Tests.Benchmarks;

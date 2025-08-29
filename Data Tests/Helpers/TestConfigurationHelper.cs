@@ -1,4 +1,4 @@
-using MedjCap.Data.Configuration;
+using MedjCap.Data.Infrastructure.Configuration.Options;
 using Microsoft.Extensions.Options;
 
 namespace MedjCap.Data.Tests.Helpers;

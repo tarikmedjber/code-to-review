@@ -4,9 +4,13 @@ using System.Linq;
 using Xunit;
 using FluentAssertions;
 using Moq;
-using MedjCap.Data.Core;
-using MedjCap.Data.Domain;
-using MedjCap.Data.Services;
+using MedjCap.Data.Statistics.Interfaces;
+using MedjCap.Data.Trading.Models;
+using MedjCap.Data.Statistics.Services;
+using MedjCap.Data.TimeSeries.Models;
+using MedjCap.Data.Statistics.Models;
+using MedjCap.Data.Statistics.Correlation.Models;
+using MedjCap.Data.Infrastructure.Models;
 using MedjCap.Data.Tests.Helpers;
 
 namespace MedjCap.Data.Tests.Unit

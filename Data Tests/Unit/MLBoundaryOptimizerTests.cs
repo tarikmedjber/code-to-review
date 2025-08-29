@@ -3,11 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using Xunit;
 using FluentAssertions;
-using MedjCap.Data.Core;
-using MedjCap.Data.Domain;
-using MedjCap.Data.Services;
-using MedjCap.Data.Services.OptimizationStrategies;
-using MedjCap.Data.Storage;
+using MedjCap.Data.MachineLearning.Interfaces;
+using MedjCap.Data.Trading.Models;
+using MedjCap.Data.MachineLearning.Models;
+using MedjCap.Data.MachineLearning.Services;
+using MedjCap.Data.MachineLearning.Services.OptimizationStrategies;
+using MedjCap.Data.MachineLearning.Optimization.Models;
+using MedjCap.Data.Statistics.Interfaces;
+using MedjCap.Data.Statistics.Services;
+using MedjCap.Data.TimeSeries.Interfaces;
+using MedjCap.Data.TimeSeries.Services;
+using MedjCap.Data.TimeSeries.Storage.InMemory;
+using MedjCap.Data.Infrastructure.Storage;
 using MedjCap.Data.Tests.Helpers;
 
 namespace MedjCap.Data.Tests.Unit

@@ -6,9 +6,20 @@ using System.Threading.Tasks;
 using Xunit;
 using FluentAssertions;
 using Moq;
-using MedjCap.Data.Core;
-using MedjCap.Data.Domain;
-using MedjCap.Data.Services;
+using MedjCap.Data.Analysis.Interfaces;
+using MedjCap.Data.Trading.Models;
+using MedjCap.Data.Analysis.Models;
+using MedjCap.Data.Analysis.Services;
+using MedjCap.Data.Statistics.Interfaces;
+using MedjCap.Data.MachineLearning.Interfaces;
+using MedjCap.Data.MachineLearning.Optimization.Models;
+using MedjCap.Data.Backtesting.Interfaces;
+using MedjCap.Data.Backtesting.Models;
+using MedjCap.Data.TimeSeries.Interfaces;
+using MedjCap.Data.TimeSeries.Models;
+using MedjCap.Data.Statistics.Models;
+using MedjCap.Data.Statistics.Correlation.Models;
+using MedjCap.Data.Infrastructure.Models;
 
 namespace MedjCap.Data.Tests.Unit
 {
